@@ -1,4 +1,4 @@
-# ItsPaden.github-io
+# ItsPaden.github.io
 
 Hello! 
 
